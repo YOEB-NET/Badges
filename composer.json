@@ -14,10 +14,11 @@
         }
     ],
     "require": {
+        "laravel/laravel": "*",
         "php": "^8.0.2"
     },
     "require-dev": {
-        "yoeb/badges": "*"
+        "laravel/laravel": "*"
     },
     "extra": {
         "laravel": {
