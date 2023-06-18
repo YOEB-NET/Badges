@@ -23,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Vendor\\Package\\PackageServiceProvider"
+                "Yoeb\\Badges\\YoebServiceProvider"
             ]
         }
     },
